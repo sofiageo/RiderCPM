@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiderCPM", "RiderCPM\RiderCPM.csproj", "{FA8BA54F-B576-4440-8759-A64563198A19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library1", "Library1\Library1.csproj", "{7947ECCC-699B-42B7-B350-C40CDF908210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA8BA54F-B576-4440-8759-A64563198A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8BA54F-B576-4440-8759-A64563198A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8BA54F-B576-4440-8759-A64563198A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8BA54F-B576-4440-8759-A64563198A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7947ECCC-699B-42B7-B350-C40CDF908210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7947ECCC-699B-42B7-B350-C40CDF908210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7947ECCC-699B-42B7-B350-C40CDF908210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7947ECCC-699B-42B7-B350-C40CDF908210}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
